@@ -5,9 +5,9 @@
 [![Gemini 3.1](https://img.shields.io/badge/Model-Gemini%203.1-orange)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Gemini Pro Nexus** is a premium, high-performance neural interface built with Streamlit and Google's latest Generative AI models. It features a sleek "Glassmorphism" UI, real-time creative controls, and advanced chat memory.
+**Live Demo:** [Deploy on Streamlit Cloud](https://gemini-chatbot-4aextrwumxx9zymkw56ug9.streamlit.app/)
 
----
+**Gemini Pro Nexus** is a premium, high-performance neural interface built with Streamlit and Google's latest Generative AI models. It features a sleek "Glassmorphism" UI, real-time creative controls, and advanced chat memory.
 
 ## ✨ Key Features
 
@@ -17,4 +17,3 @@
 - **Neural Link Memory**: Persistent session-state chat history that "remembers" the conversation flow.
 - **Secure Architecture**: Built-in support for environment variables to keep your API keys private.
 
----
