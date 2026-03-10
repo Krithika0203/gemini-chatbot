@@ -18,17 +18,3 @@
 - **Secure Architecture**: Built-in support for environment variables to keep your API keys private.
 
 ---
-
-## 🚀 Quick Start
-
-### 1. Prerequisites
-- Python 3.9 or higher
-- A Google Gemini API Key (Get one at [Google AI Studio](https://aistudio.google.com/))
-
-### 2. Installation
-Clone the repository and install the dependencies:
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/gemini-pro-nexus.git](https://github.com/YOUR_USERNAME/gemini-pro-nexus.git)
-cd gemini-pro-nexus
-pip install -r requirements.txt
